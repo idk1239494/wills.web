@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<title>A message from William</title>
+<style>
+        .horizontal-line {
+            display: flex;
+        }
+        .horizontal-line p {
+            margin-right: 5px; /* Adjust spacing between paragraphs */
+        }
+</style>
+<h1>Dear Sammy Wammy,</h1>
+<p>hey, sammy.. this is william whirlpoolaitr.. so sorry for leaving to go get the milk and not coming back for another 7 years.. it was because i left on black friday, there was no milk left, everyone had taken it. but there was one carton left so i had to fight for it but the guy i was fighting was a sigma alpha wolf and he captured me.. he is going to steal all of my social credit and aura points.. so i left the milk i created on this page for you to have. again i am so sorry for leaving on black friday, Siggity Sig Sigma Sammy Swamity Wammy.. you will never see me without a carton of milk.<br><br>this is your final milk</p>
+
+<img src="https://static.vecteezy.com/system/resources/previews/024/750/719/large_2x/ai-generated-fresh-milk-in-the-glass-on-transparent-free-png.png" alt="milk😭😭😭😭😭😭😭" width="300" height="300" onclick="incrementNumber()">
+<div class="horizontal-line">
+<p>total amount of milk consumed: </p>
+<p id="counter">0</p>
+<p> gallon(s)</p>
+<br><img src="https://files.catbox.moe/ywczei.png" alt="sammy😭😭😭😭😭😭😭" width="50" height="50" onclick="incrementNumber()">
+<br><br><p>click <a href="https://idk1239494.github.io/wills.web/milk.html">here</a> if this isnt enough milk..</p>
+<script>
+        let count = 0;
+
+        function incrementNumber() {
+            count += 1;
+            document.getElementById('counter').textContent = count;
+        }
+</script>
+</body>
+</html>
